@@ -39,6 +39,9 @@ sudo apt install -y vim
 echo 'You just got VIM lol!'
 #skype
 #anaconda
+#GoogleKeep
+#ROS
+
 
 
 # Just Dual_boot Things, use settime to correct your time immediately
